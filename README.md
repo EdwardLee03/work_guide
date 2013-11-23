@@ -1,4 +1,4 @@
-work_guide
+﻿work_guide
 ==========
 
-IT 工作指南
+工作指南

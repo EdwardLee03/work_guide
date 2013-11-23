@@ -4,7 +4,7 @@
 #
 # 【示例】
 # 	打包 invite 项目
-# 	sh maven_project_build.sh.sh invite
+# 	sh maven_project_build.sh invite
 #
 # 项目命名规则
 # 	对于 $name 项目
